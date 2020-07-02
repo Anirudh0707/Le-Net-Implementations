@@ -2,6 +2,15 @@
 This repository is a part of the Deep Learning Course at NITK. The repository contains the Numpy and TensorFlow implementations of the LeNet<br/>
 The base paper for the LeNet architecture can be found [here](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 
+# Library Dependencies
+numpy<br/>
+scipy<br/>
+matplotlib<br/>
+cv2<br/>
+tensorflow 2.0<br/>
+tqdm<br/>
+sklearn
+
 # Authors
 Anirudh B H (16EC105)<br/>
 Manan Sharma (16EC118)
