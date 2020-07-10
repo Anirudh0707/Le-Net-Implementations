@@ -22,3 +22,6 @@ There are 3 Jupyter Notebooks with the implmentations
 2) LeNet_Numpy : A notebook with the Numpy implementation of the LeNet architecture for the MNIST dataset
 3) LeNet_TensorFlow : A notebook with the TensorFlow implementation of the LeNet architecture for the MNIST dataset
 
+# Credit
+Our CNN forward and backprop implementations are based on the assignments from the CNNs course<br/> 
+This course is part of the deeplearning.ai specialization taught by Andrew NG.<br/>
